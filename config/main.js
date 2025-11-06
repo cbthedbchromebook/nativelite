@@ -1,7 +1,7 @@
 // This changes the title of your site
 
-var sitename = "native."; // Change this to change the name of your website.
-var subtext = "v1.2"; // set the subtext
+var sitename = "cb's gaming hub"; // Change this to change the name of your website.
+var subtext = "v0.1 beta"; // set the subtext
 
 // more settings in main.css
 
